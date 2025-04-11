@@ -1,5 +1,5 @@
 # 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=choikim0108&show_icons=true&count_private=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=choikim0108&show_icons=true&count_private=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choikim&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choikim&layout=compact&theme=tokyonight)
